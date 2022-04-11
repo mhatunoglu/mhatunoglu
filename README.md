@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhatunoglu
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning .c and .py
 - 📫 How to reach me: murathatunoglu.01@hotmail.com
 
 <!---
